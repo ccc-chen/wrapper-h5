@@ -15,7 +15,7 @@
 		"build:rn": "taro build --type rn",
 		"tep": "node template"
 	},
-	"author": "cai.bowen <easytuan@foxmail.com>",
+	"author": "ccc-chen",
 	"license": "MIT",
 	"dependencies": {
 		"@tarojs/async-await": "1.3.9",

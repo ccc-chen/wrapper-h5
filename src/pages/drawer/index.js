@@ -18,7 +18,6 @@ export default class Index extends Component {
   }
 
   componentDidShow() {
-    console.log(this.Drawer)
   }
 
   DrawerShow = () => {
