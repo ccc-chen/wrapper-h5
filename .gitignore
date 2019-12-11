@@ -3,6 +3,8 @@
 .idea/
 .DS_Store
 /.temp
+/src/config
+/utils/request.js
 
 
 
