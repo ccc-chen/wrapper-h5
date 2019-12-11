@@ -4,7 +4,7 @@
 .DS_Store
 /.temp
 /src/config
-/src/utils/request.js
+/src/utils
 
 
 
